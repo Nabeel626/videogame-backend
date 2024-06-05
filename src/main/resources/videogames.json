@@ -1,0 +1,101 @@
+[
+  {
+    "id": 1,
+    "game_name": "Tekken 7",
+    "released": "March 2015",
+    "platforms": "PlayStation 4, PlayStation 5, Xbox One, Xbox Series X/S, Microsoft Windows",
+    "genres": "Sports Video Game, Beat 'em up, Simulation Game",
+    "created_by": "BANDAI NAMCO Studios",
+    "reviews": 4.2
+  },
+  {
+    "id": 2,
+    "game_name": "EA Sports FC 24",
+    "released": "September 2023",
+    "platforms": "PlayStation 4, PlayStation 5, Xbox One, Xbox Series X/S, Microsoft Windows, Nintendo Switch",
+    "genres": "Sports Video Game, Simulation Video Game, Simulation Game, Sports",
+    "created_by": "Electronic Arts",
+    "reviews": 4.5
+  },
+  {
+    "id": 3,
+    "game_name": "Helldivers 2",
+    "released": "February 2024",
+    "platforms": "PlayStation 5, Microsoft Windows",
+    "genres": "Third-person shooter, Indie game, Massively Multiplayer",
+    "created_by": "Arrowhead Game Studios",
+    "reviews": 4.1
+  },
+  {
+    "id": 4,
+    "game_name": "Forza Horizon 5",
+    "released": "November 2021",
+    "platforms": "Xbox Series X/S, Xbox One, Microsoft Windows, GeForce Now, Xbox Cloud Gaming",
+    "genres": "Racing Video Game, Adventure game",
+    "created_by": "Playground Games",
+    "reviews": 4.8
+  },
+  {
+    "id": 5,
+    "game_name": "Forza Horizon 4",
+    "released": "September 2018",
+    "platforms": "Xbox Series X/S, Xbox One, Microsoft Windows, GeForce Now, Xbox Cloud Gaming",
+    "genres": "Sports Video Game, Simulation Video Game, Simulation Game, Sports",
+    "created_by": "Playground Games",
+    "reviews": 4.6
+  },
+  {
+    "id": 6,
+    "game_name": "The Elder Scrolls V: Skyrim",
+    "released": "November 2011",
+    "platforms": "PlayStation 3, PlayStation 4, PlayStation 5, Xbox 360, Xbox One, Xbox Series X/S, Microsoft Windows, Nintendo Switch",
+    "genres": "Action role-playing, Simulation Game, Shooter Video Game, Fighting Game, Fantasy, Action/ Adventure Game",
+    "created_by": "Bethesda Game Studios",
+    "reviews": 4.7
+  },
+  {
+    "id": 7,
+    "game_name": "Minecraft",
+    "released": "November 2011",
+    "platforms": "PlayStation 4, PlayStation 5, Xbox One, Xbox Series X/S, Microsoft Windows, Nintendo Switch, Android, iOS",
+    "genres": "Indie game, Action/ Adventure Game, Fighting Game, Simulation Game",
+    "created_by": "Mojang Studios",
+    "reviews": 4.5
+  },
+  {
+    "id": 8,
+    "game_name": "Rocket League",
+    "released": "July 2015",
+    "platforms": "PlayStation 4, PlayStation 5, Xbox One, Xbox Series X/S, Microsoft Windows, Nintendo Switch",
+    "genres": "Action game, Sports Video Game, Indie game, Car racing game, Vehicle simulation game, Simulation Game",
+    "created_by": "Psyonix",
+    "reviews": 4.1
+  },
+  {
+    "id": 9,
+    "game_name": "Dishonored 2",
+    "released": "November 2016",
+    "platforms": "PlayStation 4, Xbox One, Microsoft Windows",
+    "genres": "Stealth game, Action/Adventure game, Fighting game",
+    "created_by": "Arkane Studios",
+    "reviews": 4.4
+  },
+  {
+    "id": 10,
+    "game_name": "Metal Gear Solid",
+    "released": "September 1998",
+    "platforms": "PlayStation 1, Nintendo Switch, PlayStation 3, Microsoft Windows",
+    "genres": "Stealth game, Action/Adventure game",
+    "created_by": "Konami",
+    "reviews": 4.1
+  },
+  {
+    "id": 11,
+    "game_name": "The Sims 4",
+    "released": "September 2014",
+    "platforms": "PlayStation 4, Xbox One, Microsoft Windows, MacOS",
+    "genres": "Life Simulation game, Casual game, Strategy Video game, Adventure game",
+    "created_by": "Electronic Arts",
+    "reviews": 4.3
+  }
+]
