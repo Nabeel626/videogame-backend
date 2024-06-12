@@ -11,8 +11,8 @@ public class VideoGameReviewService {
     VideoGameReviewRepository videoGameReviewRepository;
 
     //THIS ADDS A VIDEO GAME
-    public void addVideoGame(VideoGameReview videoGameReview) {
-        videoGameReviewRepository.save(videoGameReview);
+    public void addVideoGame(VideoGameReview videoGame) {
+        videoGameReviewRepository.save(videoGame);
     }
 
     //THIS GRABS ALL THE DATA

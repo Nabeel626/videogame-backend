@@ -10,11 +10,11 @@ import java.util.List;
 public interface VideoGameReviewRepository extends JpaRepository<VideoGameReview, Long> {
 
     //THIS GRABS ALL THE DATA
-    @Query(value="SELECT * FROM video_games.games", nativeQuery = true)
+    @Query(value="SELECT * FROM video_games.video_game_review;", nativeQuery = true)
     List<VideoGameReview> getAllVideoGames();
 
     //THIS GRABS A RANDOM GAME
-    @Query(value = "SELECT * FROM video_games.games ORDER BY RAND() LIMIT 1", nativeQuery = true)
+    @Query(value = "SELECT * FROM video_games.video_game_review; ORDER BY RAND() LIMIT 1", nativeQuery = true)
     VideoGameReview getRandomVideoGame();
 
 }
